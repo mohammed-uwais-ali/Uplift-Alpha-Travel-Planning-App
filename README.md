@@ -1,6 +1,6 @@
 # Uplift-Alpha-Travel-Planning-App
 We created a travel planning iOS app for people with disabilities: best user experience for iPhone 14 and iPhone 14 Pro Max. Watch Youtube Video Now for App Walkthrough.
-Created by: Team Uplift Alpha MVP Product. 
+Created by: Team Uplift Alpha (Eric, George, Mohammed, Sam, Kerri) MVP Product. 
 
 Here is a quick reference guide and short description of the features. 
 
